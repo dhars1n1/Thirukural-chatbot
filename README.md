@@ -10,3 +10,5 @@ This project integrates Pinecone for vector search with LLaMA 3 to provide conte
 - **Vector Search:** Queries Pinecone to retrieve relevant metadata based on encoded vectors.
 - **Contextual Responses:** Uses LLaMA 3 to generate empathetic responses based on Thirukkural couplets.
 - **Tanglish Responses:** Provides responses in a Tanglish style, emulating a Tamil boy speaking on social media.
+## Screenshots
+![image](https://github.com/user-attachments/assets/aa260f75-16b4-4fd3-bcf6-a032659357fa)
